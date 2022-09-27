@@ -1,0 +1,20 @@
+* "simulator" "HSPICE" 
+* "version" "Z-2007.03       "
+* "format" "HSP"
+* "rundate" "13:36:24 09/04/2022 "
+* "netlist" "D:\MATLAB\R2021a\workspace\BCD\sram6Tcell.sp "
+* "runtitle" "                                                                 "
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=  10.0000f       
+.nodeset
++ bl =   1.0000        
++ blb =   1.0000        
++ q =   0.            
++ qb =   1.0000        
++ vddh =   1.0000        
++ vss =   0.            
++ wl =   0.            
+***   END: Saved Operating Point ***                     
